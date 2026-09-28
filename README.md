@@ -98,8 +98,8 @@ After cleaning: "really enjoy amazing product"
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/yousafshah7/Twitter-Sentiment-Classifier.git
+cd Twitter-Sentiment-Classifier
 ```
 
 ### 2. Install dependencies
@@ -158,10 +158,9 @@ Predicted Sentiment: Neutral
 ## 👤 Author
 
 **Yousaf Shah**
-AI Intern, Progree Remote Internship Program
 
-- 💼 LinkedIn: [your-linkedin-url](https://linkedin.com/in/your-profile)
-- 🐙 GitHub: [your-github-url](https://github.com/your-username)
+- 💼 LinkedIn: [Yousaf Shah](https://www.linkedin.com/in/yousaf-shah-88439842a)
+- 🐙 GitHub: [yousafshah7](https://github.com/yousafshah7)
 
 ---
 
